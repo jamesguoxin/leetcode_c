@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>07DAE3A6-B0B4-4645-A13E-80F62C90AF87</string>
+	<key>IDESourceControlProjectName</key>
+	<string>median_two_sorted_arrays_debug</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>723D750C3BEBBA559AACDB31BE5FC5EB09B039FE</key>
+		<string>https://github.com/jamesguoxin/leetcode_c.git</string>
+		<key>AB797569B64C1B43193BF9AE564C630711BE43AF</key>
+		<string>https://github.com/jamesguoxin/Algorithms.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>median_two_sorted_arrays_debug/median_two_sorted_arrays_debug.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>723D750C3BEBBA559AACDB31BE5FC5EB09B039FE</key>
+		<string>../../..</string>
+		<key>AB797569B64C1B43193BF9AE564C630711BE43AF</key>
+		<string>../../../../Algorithms</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jamesguoxin/leetcode_c.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>723D750C3BEBBA559AACDB31BE5FC5EB09B039FE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AB797569B64C1B43193BF9AE564C630711BE43AF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Algorithms</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>723D750C3BEBBA559AACDB31BE5FC5EB09B039FE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>leetcode_c</string>
+		</dict>
+	</array>
+</dict>
+</plist>

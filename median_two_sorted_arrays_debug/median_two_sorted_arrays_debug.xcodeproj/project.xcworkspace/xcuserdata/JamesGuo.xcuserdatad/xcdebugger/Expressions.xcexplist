@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Solution::findKth(int*, int*, int, int, int, int, int):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "B[0]">
+            </PersistentString>
+            <PersistentString
+               value = "A[Ai]">
+            </PersistentString>
+            <PersistentString
+               value = "A[0]">
+            </PersistentString>
+            <PersistentString
+               value = "B[Bi]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
